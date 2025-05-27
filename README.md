@@ -29,3 +29,7 @@ This project implements face recognition in videos using OpenCV’s deep learnin
 ## 💻 Run the Notebook on Google Colab
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AsadiAhmad/Face-Recognition/blob/main/Code/Face_Recognition.ipynb)
+
+## 🪪 License
+
+This project is licensed under the MIT License.
