@@ -3,7 +3,7 @@
 This project implements face recognition in videos using OpenCV’s deep learning models and pre-trained ONNX models.
 
 <div display=flex align=center>
-  <img src="/Gif/face_detected.gif" width="600px"/>
+  <img src="/Gif/face_detected.gif" width="800px"/>
 </div>
 
 ## Tech :hammer_and_wrench: Languages and Tools :
