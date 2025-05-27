@@ -25,3 +25,7 @@ This project implements face recognition in videos using OpenCV’s deep learnin
 - Numpy : Best Library for working with arrays in python
 - MatPlotLib : Library for showing the charts in python
 - GDown : Download Resources from Google Drive
+
+## 💻 Run the Notebook on Google Colab
+
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AsadiAhmad/Face-Recognition/blob/main/Code/Face_Recognition.ipynb)
